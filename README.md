@@ -95,9 +95,9 @@ For every problem:
 📈 Progress
 
 - [x] Level 1 — Started
-- [ ] Level 2 — In Progress
-- [ ] Level 3
-- [ ] Level 4
+- [x] Level 2 — Started
+- [x] Level 3 — Started
+- [ ] Level 4 — In progress 
 - [ ] Level 5
 - [ ] Level 6
 - [ ] Level 7
